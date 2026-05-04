@@ -8,7 +8,7 @@ I am a web developer with a knack for crafting clean and efficient code. Current
 
 ## Skills & Technologies
 
-html,css,bootstrap,js,jquery,git,github,tailwind,django,node js,MongoDB,React,
+HTML, CSS, Bootstrap, JS, jQuery, git, GitHub, Tailwind, Django, Node.js, MongoDB, React, Next.js
 
 ## Top Projects
 
