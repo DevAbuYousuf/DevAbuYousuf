@@ -4,11 +4,11 @@ I'm **Md. Yousuf**, a passionate developer based in **Shymoli, Dhaka**. I specia
 
 ## About Me
 
-I am a web developer with a knack for crafting clean and efficient code. Currently, I'm focused on enhancing my skills in front-end and Back-End development. I'm always eager to learn and grow in this ever-evolving tech landscape.
+I am a MERN Stack developer with a knack for crafting clean and efficient code. Currently, I'm focused on enhancing my skills in front-end and Back-End development. I'm always eager to learn and grow in this ever-evolving tech landscape.
 
 ## Skills & Technologies
 
-HTML, CSS, Bootstrap, JS, jQuery, git, GitHub, Tailwind, Django, Node.js, MongoDB, React, Next.js
+HTML, CSS, Bootstrap, JS, jQuery, git, GitHub, Tailwind, Node.js, MongoDB, React, Next.js, TypeScript
 
 ## Top Projects
 
