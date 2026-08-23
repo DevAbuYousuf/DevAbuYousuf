@@ -12,7 +12,7 @@ HTML, CSS, Bootstrap, JS, jQuery, git, GitHub, Tailwind, Node.js, MongoDB, React
 
 ## Top Projects
 
-- [Personal Portfolio](https://news-portal-frontend-lac.vercel.app/) - A responsive and modern full-stack news portal website crafted using JavaScript, Node.js, MongoDB, and React.js to showcase my skills and projects. ⭐️ 0 Stars | Language: Javascript
+- [News-Portal web site](https://news-portal-frontend-lac.vercel.app/) - A responsive and modern full-stack news portal website crafted using JavaScript, Node.js, MongoDB, and React.js to showcase my skills and projects. ⭐️ 0 Stars | Language: Javascript
 - [Make Calculator](https://github.com/DevAbuYousuf/Make-Calculator) - A simple calculator built with HTML, CSS, and JavaScript. ⭐️ 0 Stars | Language: HTML
 - [Make Qr Code Generator](https://github.com/DevAbuYousuf/Make-Qr-Code-Generator) - A QR code generator using HTML, CSS, and JavaScript. ⭐️ 0 Stars | Language: HTML
 - [E-Commerce Site](https://github.com/DevAbuYousuf/E-Commerce-site) - A complete e-commerce website built with modern web technologies. ⭐️ 0 Stars | Language: HTML
